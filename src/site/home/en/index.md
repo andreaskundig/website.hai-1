@@ -29,7 +29,7 @@ expertise:
       <video  width=\"50%\"
       poster=\"/src/assets/media/workshop_hestialabs.jpg\"  controls>\r
 
-      <source width=\"50%\"
+      <source
       src=\"https://hestialabs.org/assets/media/workshop_collectives5.mp4\"
       type=\"video/mp4\">\r
 

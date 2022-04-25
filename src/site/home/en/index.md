@@ -26,10 +26,11 @@ expertise:
       It concerns:  politicians, civil servants, teachers, pupils
 
 
-      <video  poster=\"/src/assets/media/workshop_hestialabs.jpg\"  contr\
-      ols>\r
+      <video
+      width=\"100%\"  poster=\"/src/assets/media/workshop_hestialabs.jpg\"  con\
+      trols>\r
 
-      <source width=\"50%\"
+      <source
       src=\"https://hestialabs.org/assets/media/workshop_collectives5.mp4\"
       type=\"video/mp4\">\r
 
